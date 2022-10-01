@@ -1,2 +1,2 @@
 # Text-Summarization
-A WebApp for effective summarization of long texts
+In this project, we are building a webapp using the research paper Sequence Generative Adversarial Network for Text Summarization. The webapp can be used for abstractive summarization task of text (i.e., Document summarization, Web page summarization). Abstractive summarization reproduces important material in a new way after interpretation and examination of the text using advanced natural language processing techniques.
